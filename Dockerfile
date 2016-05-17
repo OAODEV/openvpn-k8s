@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:edge
 MAINTAINER Jaka Hudoklin <jakahudoklin@gmail.com>
 
 # Install openvpn
